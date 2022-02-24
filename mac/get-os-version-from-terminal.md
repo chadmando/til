@@ -19,4 +19,4 @@ $ sw_vers -productversion
 
 ## References
 
-Found in the MACOS_Exploit section of [The Operator Handbook]() by [Netmux](https://netmux.com).
+Found in the MACOS_Exploit section of [The Operator Handbook](https://www.amazon.com/Operator-Handbook-Team-OSINT-Reference/dp/B085RR67H5) by [Netmux](https://netmux.com).
