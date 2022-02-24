@@ -16,7 +16,7 @@ I started this repo to:
 
 ### Git
 
-+ [Rename an Existing Branch](git/rename-existing-git-branch.md)
++ [Rename an Existing Branch](git/rename-existing-branch.md)
 
 ### Mac
 
