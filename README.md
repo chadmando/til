@@ -13,6 +13,7 @@ I started this repo to:
 
 + [Git](#git)
 + [Mac](#mac)
++ [PowerShell](#PowerShell)
 
 ### Git
 
@@ -21,6 +22,10 @@ I started this repo to:
 ### Mac
 
 + [Get OS Version From the Terminal](mac/get-os-version-from-terminal.md)
+
+### PowerShell
+
++ [Get Root Path of a PSDrive](powershell/get-root-path-of-psdrive.md)
 
 ## About
 
