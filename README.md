@@ -13,7 +13,8 @@ I started this repo to:
 
 + [Git](#git)
 + [Mac](#mac)
-+ [PowerShell](#PowerShell)
++ [PowerShell](#powershell)
++ [Python](#python)
 
 ### Git
 
@@ -26,6 +27,10 @@ I started this repo to:
 ### PowerShell
 
 + [Get Root Path of a PSDrive](powershell/get-root-path-of-psdrive.md)
+
+### Python
+
++ [Serve Current Directory Using HTTP](python/serve-current-directory-using-http.md)
 
 ## About
 
