@@ -22,5 +22,5 @@ sequenceDiagram
 
 ## References
 
-Transmission Control Protocol [RFC 793](https://www.rfc-editor.org/rfc/rfc793.html)
-Wireshark has a less formal explanation [here](https://wiki.wireshark.org/TCP_3_way_handshaking).
++ Transmission Control Protocol [RFC 793](https://www.rfc-editor.org/rfc/rfc793.html)
++ Wireshark has a less formal explanation [here](https://wiki.wireshark.org/TCP_3_way_handshaking).
