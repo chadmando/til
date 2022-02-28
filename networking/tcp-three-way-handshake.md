@@ -7,7 +7,7 @@
 
 ## Three-Way Handshake Sequence
 
-The client initiates a connection by sending the _SYN_.
+The client initiates a connection by sending the __SYN__.
 Then, the server responds to the client with a _SYN + ACK_.
 Finally, the client establishes the connection by sending the _ACK_.
 
