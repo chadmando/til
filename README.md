@@ -16,6 +16,7 @@ I started this repo to:
 + [Networking](#networking)
 + [PowerShell](#powershell)
 + [Python](#python)
++ [Windows](#windows)
 
 ### Git
 
@@ -36,6 +37,10 @@ I started this repo to:
 ### Networking
 
 + [TCP Three-Way Handshake Diagram](networking/tcp-three-way-handshake.md)
+
+### Windows
+
++ [Capture Network Traffic Across Reboot](windows/capture-network-traffic-across-reboot.md)
 
 ## About
 
