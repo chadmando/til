@@ -18,6 +18,8 @@ I started this repo to:
 + [Python](#python)
 + [Windows](#windows)
 
+---
+
 ### Git
 
 + [Rename an Existing Branch](git/rename-existing-branch.md)
