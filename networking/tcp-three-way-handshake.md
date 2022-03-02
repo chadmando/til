@@ -9,7 +9,7 @@
 
 The client initiates a connection by sending the __SYN__.
 Then, the server responds to the client with a __SYN + ACK__.
-Finally, the client establishes the connection by sending the _ACK_.
+Finally, the client establishes the connection by sending the __ACK__.
 
 ```mermaid
 sequenceDiagram
