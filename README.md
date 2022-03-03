@@ -45,6 +45,7 @@ I started this repo to:
 ### Windows
 
 + [Capture Network Traffic Across Reboot](windows/capture-network-traffic-across-reboot.md)
++ [Get OS Name and Version from CMD](windows/get-os-name-and-version-from-cmd.md)
 
 ## About
 
