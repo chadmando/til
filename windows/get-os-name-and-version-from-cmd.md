@@ -16,4 +16,5 @@ The `^` is needed to avoid grabbing the BIOS Version too.
 
 
 ## References
+
 The command prompt version found in the [Blue Team Field Manual](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X) by Alan White and Ben Clark.

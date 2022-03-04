@@ -27,6 +27,7 @@ I started this repo to:
 ### Mac
 
 + [Get OS Version From the Terminal](mac/get-os-version-from-terminal.md)
++ [Insert an Em Dash in macOS](mac/insert-em-dash-in-macos.md)
 
 ### PowerShell
 
