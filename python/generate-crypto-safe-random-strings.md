@@ -1,4 +1,4 @@
-# Create Cryptographically Safe Random Numbers Using the Secrets Module
+# Create Cryptographically Safe Random Strings Using the Secrets Module
 
 Python has a module named _secrets_ that has several methods for generating random numbers.
 The module documentation says the secrets module should be prefered over the _random_ module in security and cryptographic applications.
