@@ -1,6 +1,6 @@
 # til - Today I Learned
 
-A Collection of daily lessons about tech, software development, business, and infosec.
+A Collection of daily lessons I've learned about tech, software development, business, and infosec.
 References provided when possible.
 
 I started this repo to:
@@ -23,6 +23,7 @@ I started this repo to:
 ### Git
 
 + [Rename an Existing Branch](git/rename-existing-branch.md)
++ [Add Global Git Alias](git/add-global-git-alias.md)
 
 ### Mac
 
