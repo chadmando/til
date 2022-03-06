@@ -12,6 +12,7 @@ git config --global alias.s status -s
 ```
 
 > Create global alias `lg` for `log --oneline --decorate --all --graph`
+
 ```zsh
 git config --global alias.lg log --oneline --decorate --all --graph
 ```
