@@ -40,6 +40,7 @@ I started this repo to:
 
 + [Serve Current Directory Using HTTP](python/serve-current-directory-using-http.md)
 + [Create a Deep Copy of a Nested Object](python/deep-copy-nested-object.md)
++ [Generate Secure Random Strings](python/generate-crypto-safe-random-numbers.md)
 
 ### Networking
 
