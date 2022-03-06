@@ -1,6 +1,6 @@
 # Add a Glogal Git Alias
 
-Git has a global configuration file, _.gitconfig_. 
+Git has a global configuration file, _.gitconfig_.
 The items in the global configuration file apply to all local git repositories.
 This is a good place to add your favorite aliases.
 Here are two that I like.
