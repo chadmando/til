@@ -35,6 +35,7 @@ I started this repo to:
 
 + [Get Root Path of a PSDrive](powershell/get-root-path-of-psdrive.md)
 + [Sort IPv4 Addresses as Version](powershell/sort-ipv4-address-as-version.md)
++ [Get File Hash Using PowerShell](powershell/get-file-hash-using-powershell.md)
 
 ### Python
 
