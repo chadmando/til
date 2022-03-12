@@ -11,6 +11,7 @@ I started this repo to:
 
 ### Categories
 
++ [Concepts](#concepts)
 + [Git](#git)
 + [Mac](#mac)
 + [Networking](#networking)
@@ -19,6 +20,10 @@ I started this repo to:
 + [Windows](#windows)
 
 ---
+
+### Concepts
+
++ [Understand Serialize Versus Deserialize](concepts/understand-serialize-versus-deserialize.md)
 
 ### Git
 
