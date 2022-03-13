@@ -32,6 +32,11 @@ To create the deep copy:
 
 ```powershell
 $arr4 = [Management.Automation.PSSerializer]::Deserialize([Management.Automation.PSSerializer]::Serialize($arr3))
+```
+
+Modify one of the inner objects of `$arr3`.
+
+```powershell
 $arr1[0] = "a"
 $arr3
 ```
