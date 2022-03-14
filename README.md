@@ -42,6 +42,7 @@ I started this repo to:
 + [Sort IPv4 Addresses as Version](powershell/sort-ipv4-address-as-version.md)
 + [Get File Hash Using PowerShell](powershell/get-file-hash-using-powershell.md)
 + [Deep Copy Nested Objects in PowerShell](powershell/deep-copy-object-in-powershell.md)
++ [Encode Binary File as a Base64 String](powershell/encode-binary-as-base64.md)
 
 ### Python
 
