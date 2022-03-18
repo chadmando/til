@@ -61,6 +61,7 @@ I started this repo to:
 
 + [Capture Network Traffic Across Reboot](windows/capture-network-traffic-across-reboot.md)
 + [Get OS Name and Version from CMD](windows/get-os-name-and-version-from-cmd.md)
++ [Open Local Users and Groups Management](windows/open-local-users-and-groups-msc.md)
 
 ## About
 
