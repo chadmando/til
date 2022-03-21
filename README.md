@@ -29,6 +29,7 @@ I started this repo to:
 
 + [Rename an Existing Branch](git/rename-existing-branch.md)
 + [Add Global Git Alias](git/add-global-git-alias.md)
++ [Get Submodule Data After Cloning the Containing Project](git/get-submodule-data-after-cloning-containing-project.md)
 
 ### Mac
 
