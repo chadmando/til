@@ -1,6 +1,6 @@
 # Find All Previously Connected Networks
 
-> Accessing this Registry location using PowerShell required and elevated privileges (run as Adminstrator).
+> Accessing this Registry location using PowerShell requires elevated privileges (run as Adminstrator).
 
 Registry location to look for all previous networks:
 
