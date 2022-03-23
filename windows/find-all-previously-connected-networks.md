@@ -10,12 +10,17 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\NetworkList\Prof
 
 Additional information in the Registry Key:
 
-+ ProfileName
++ ProfileName - Name of the network connected to
 + Description
 + Managed
 + Category
+    + 0 - Public
+    + 1 - Private
 + DateCreated
-+ NameType
++ NameType - Based on my list of profiles, I assume the numbers represent:
+    + 6 - Wired
+    + 23 - VPN
+    + 71 - Wireless
 + DateLastConnected
 
 
