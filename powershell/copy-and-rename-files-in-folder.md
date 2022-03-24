@@ -3,6 +3,7 @@
 ## Background
 
 A set of files needs to be copied and renamed.
+The filenames use the same structure, but one part needs to change. 
 A common example is a business file that has the year in the name.
 When the year changes, you need to _save as_ with the new year in the file's name.
 
