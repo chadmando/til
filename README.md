@@ -46,6 +46,7 @@ I started this repo to:
 + [Encode Binary File as a Base64 String](powershell/encode-binary-as-base64.md)
 + [Get Serial Number of a Computer](powershell/get-serial-number-of-computer.md)
 + [Copy and Rename Files in a Folder](powershell/copy-and-rename-files-in-folder.md)
++ [Measure Execution Time of a Command](powershell/measure-execution-time-of-a-command.md)
 
 ### Python
 
