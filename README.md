@@ -36,6 +36,7 @@ I started this repo to:
 + [Get OS Version From the Terminal](mac/get-os-version-from-terminal.md)
 + [Insert an Em Dash in macOS](mac/insert-em-dash-in-macos.md)
 + [Find and Change the Shell in macOS](mac/find-and-change-shell-in-macOS.md)
++ [Screenshot Keyboard Shortcuts](mac/screenshot-app-keyboard-shortcuts.md)
 
 ### PowerShell
 
