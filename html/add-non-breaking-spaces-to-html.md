@@ -8,4 +8,4 @@
 
 ## References
 
-This freeCodeCamp [article](https://www.freecodecamp.org/news/html-space-how-to-add-a-non-breaking-space-with-the-nbsp-character-entity/) covers this topic in detail.
+This freeCodeCamp [article](https://www.freecodecamp.org/news/html-space-how-to-add-a-non-breaking-space-with-the-nbsp-character-entity/) covers the topic in detail with examples.
