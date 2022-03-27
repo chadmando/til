@@ -31,6 +31,10 @@ I started this repo to:
 + [Add Global Git Alias](git/add-global-git-alias.md)
 + [Get Submodule Data After Cloning the Containing Project](git/get-submodule-data-after-cloning-containing-project.md)
 
+### HTML
+
++ [Add Non-Breaking Spaces To HTML or Markdown](html/add-non-breaking-spaces-to-html.md)
+
 ### Mac
 
 + [Get OS Version From the Terminal](mac/get-os-version-from-terminal.md)
