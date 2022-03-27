@@ -13,6 +13,7 @@ I started this repo to:
 
 + [Concepts](#concepts)
 + [Git](#git)
++ [HTML](#html)
 + [Mac](#mac)
 + [Networking](#networking)
 + [PowerShell](#powershell)
