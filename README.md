@@ -42,6 +42,7 @@ I started this repo to:
 + [Insert an Em Dash in macOS](mac/insert-em-dash-in-macos.md)
 + [Find and Change the Shell in macOS](mac/find-and-change-shell-in-macOS.md)
 + [Screenshot Keyboard Shortcuts](mac/screenshot-app-keyboard-shortcuts.md)
++ [Rename File In A Long Path](mac/rename-file-in-long-path.md)
 
 ### PowerShell
 
