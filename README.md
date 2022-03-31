@@ -54,6 +54,7 @@ I started this repo to:
 + [Get Serial Number of a Computer](powershell/get-serial-number-of-computer.md)
 + [Copy and Rename Files in a Folder](powershell/copy-and-rename-files-in-folder.md)
 + [Measure Execution Time of a Command](powershell/measure-execution-time-of-a-command.md)
++ [Create A Globally Unique Identifier](powershell/create-globally-unique-identifiers.md)
 
 ### Python
 
