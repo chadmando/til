@@ -55,6 +55,7 @@ I started this repo to:
 + [Copy and Rename Files in a Folder](powershell/copy-and-rename-files-in-folder.md)
 + [Measure Execution Time of a Command](powershell/measure-execution-time-of-a-command.md)
 + [Create A Globally Unique Identifier](powershell/create-globally-unique-identifiers.md)
++ [Show Completion Options](powershell/show-completion-options.md)
 
 ### Python
 
