@@ -1,9 +1,9 @@
 # Show Completion Options in PowerShell
 
 Using tab completions is a great way to reduce typing and mistakes when working in PowerShell.
-Typically you start typing the first few letters or a command or parameter and press Tab to invoke the magic.
+Typically you start typing the first few letters of a cmdlet or parameter and press Tab to invoke the magic.
 Sometimes you want to know which parameters are availabe without starting to type or without using `Get-Help`.
-The beautiful thing about using this feature is that it restores what you typed before invoking it.
+
 To see available options use these key combinations.
 
 ## Completion Options on Windows
@@ -29,8 +29,11 @@ PS /Users/chadmando/example> Get-Process -
 ```
 
 You get all of the possible parameters that can be used with `Get-Process`.
+
 > NOTE: the `-` after the cmdlet is important.
-Then it restores the `Get-Process -` at the prompt so you can start typing the parameter.
+
+The best part of this this feature is that it restores what you typed before invoking it.
+Notice in the results how `Get-Process -` at the new prompt is part of the output?
 
 ## Requirements
 
