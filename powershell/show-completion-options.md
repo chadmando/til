@@ -47,4 +47,4 @@ Confirm you have it imported in the current session by running `Get-Module PSRea
 ## References
 
 + I heard about Ctrl+Space on the [Stop Typing So Much](https://www.podbean.com/ew/pb-xvf99-11e01aa) episode of The PowerShell Podcast.
-+ When it didn't work on macOS, I found this reddit [post](https://www.reddit.com/r/PowerShell/comments/tlvhpn/ctrlspace_on_macos/)
++ When it didn't work on macOS, I found this reddit [post](https://www.reddit.com/r/PowerShell/comments/tlvhpn/ctrlspace_on_macos/).
