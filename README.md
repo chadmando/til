@@ -57,6 +57,7 @@ I started this repo to:
 + [Measure Execution Time of a Command](powershell/measure-execution-time-of-a-command.md)
 + [Create A Globally Unique Identifier](powershell/create-globally-unique-identifiers.md)
 + [Show Completion Options](powershell/show-completion-options.md)
++ [Use Advanced Math Methods and Constants](powershell/use-math-library-methods.md)
 
 ### Python
 
