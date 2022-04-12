@@ -18,5 +18,5 @@ See all of the available methods and constants by piping to `Get-Member`.
 
 ## References
 
-+ A more detail write-up of available functions by  4sysops is [here](https://4sysops.com/archives/do-the-math-with-powershell/).
++ A more detailed write-up of available functions by 4sysops is [here](https://4sysops.com/archives/do-the-math-with-powershell/).
 + Math Class [documentation](https://docs.microsoft.com/en-us/dotnet/api/system.math?view=net-6.0) 
