@@ -59,6 +59,7 @@ I started this repo to:
 + [Create A Globally Unique Identifier](powershell/create-globally-unique-identifiers.md)
 + [Show Completion Options](powershell/show-completion-options.md)
 + [Use Advanced Math Methods and Constants](powershell/use-math-library-methods.md)
++ [Break Long Results Into Pages](powershell/break-long-results-into-pages.md)
 
 ### Python
 
