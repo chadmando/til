@@ -58,6 +58,7 @@ I started this repo to:
 + [Measure Execution Time of a Command](powershell/measure-execution-time-of-a-command.md)
 + [Create A Globally Unique Identifier](powershell/create-globally-unique-identifiers.md)
 + [Show Completion Options](powershell/show-completion-options.md)
++ [Show Zone Identifier For Files In Downloads Folder](powershell/show-zone-identifier-for-all-files-in-downloads-folder.md)
 + [Use Advanced Math Methods and Constants](powershell/use-math-library-methods.md)
 + [Break Long Results Into Pages](powershell/break-long-results-into-pages.md)
 
