@@ -3,8 +3,7 @@
 Use the `-Stream` parameter to access the _Alternate Data Streams_ (ADS) in Windows files.
 
 ```powershell
-Set-Location $env:USERPROFILE\downloads |
-Get-ChildItem . |
+Get-ChildItem ($env:USERPROFILE + "\downloads") |
 ForEach-Object -Process {Get-Item $_  -Stream * -ErrorAction Ignore} |
 Where-Object {$_.Stream -eq "Zone.Identifier"} |
 ForEach-Object -Process {Get-Content ($_.PSPath)} |
