@@ -61,6 +61,8 @@ I started this repo to:
 + [Show Zone Identifier For Files In Downloads Folder](powershell/show-zone-identifier-for-all-files-in-downloads-folder.md)
 + [Use Advanced Math Methods and Constants](powershell/use-math-library-methods.md)
 + [Break Long Results Into Pages](powershell/break-long-results-into-pages.md)
++ [Get WSMan Trusted Hosts](powershell/get-wsman-trusted-hosts.md)
+
 
 ### Python
 
