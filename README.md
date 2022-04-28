@@ -36,6 +36,7 @@ I started this repo to:
 ### HTML
 
 + [Add Non-Breaking Spaces To HTML or Markdown](html/add-non-breaking-spaces-to-html.md)
++ [Understand Block Versus Inline Elements](html/understand-block-versus-inline-html-elements.md)
 
 ### Mac
 
