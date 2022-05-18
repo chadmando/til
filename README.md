@@ -32,6 +32,7 @@ I started this repo to:
 + [Rename an Existing Branch](git/rename-existing-branch.md)
 + [Add Global Git Alias](git/add-global-git-alias.md)
 + [Get Submodule Data After Cloning the Containing Project](git/get-submodule-data-after-cloning-containing-project.md)
++ [Delete Merged Branches](git/delete-merged-branches.md)
 
 ### HTML
 
@@ -63,7 +64,6 @@ I started this repo to:
 + [Use Advanced Math Methods and Constants](powershell/use-math-library-methods.md)
 + [Break Long Results Into Pages](powershell/break-long-results-into-pages.md)
 + [Get WSMan Trusted Hosts](powershell/get-wsman-trusted-hosts.md)
-
 
 ### Python
 
