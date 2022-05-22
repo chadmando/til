@@ -67,11 +67,13 @@ I started this repo to:
 
 ### Python
 
-+ [Serve Current Directory Using HTTP](python/serve-current-directory-using-http.md)
 + [Create a Deep Copy of a Nested Object](python/deep-copy-nested-object.md)
 + [Generate Secure Random Strings](python/generate-crypto-safe-random-numbers.md)
-+ [Use KDF to Hash Passwords](python/use-kdf-to-hash-passwords.md)
 + [Get Character Sets From String Module](python/get-character-sets-from-string-module.md)
++ [Serve Current Directory Using HTTP](python/serve-current-directory-using-http.md)
++ [Text or File Input Pattern for Argparse](python/text-or-file-input-pattern-for-argparse.md)
++ [Use KDF to Hash Passwords](python/use-kdf-to-hash-passwords.md)
+
 
 ### Networking
 
