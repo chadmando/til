@@ -25,7 +25,9 @@ def get_args():
     return args
 ```
 
-This provide the flexibility of either providing text as an argument or pointing to a file.
+## Usage
+
+Text may be provided as an argument or by pointing to a file.
 
 ```bash
 .\script.py "argument text"
