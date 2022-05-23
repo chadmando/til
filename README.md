@@ -5,7 +5,7 @@ References provided when possible.
 
 I started this repo to:
 
-+ Create central location for this type of information
++ Create a central location for this type of information
 + Reinforce what I learn by restating the idea in my own words
 + Share with others
 
