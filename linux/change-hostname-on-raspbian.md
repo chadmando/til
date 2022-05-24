@@ -3,7 +3,7 @@
 Change the hostname in two locations to rename a Raspberry Pi running Raspbian.
 
 ```bash
-\etc\hostname
+/etc/hostname
 ```
 
 Launch the editor as `sudo`.
