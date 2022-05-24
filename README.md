@@ -14,6 +14,7 @@ I started this repo to:
 + [Concepts](#concepts)
 + [Git](#git)
 + [HTML](#html)
++ [Linux](#linux)
 + [Mac](#mac)
 + [Networking](#networking)
 + [PowerShell](#powershell)
@@ -38,6 +39,10 @@ I started this repo to:
 
 + [Add Non-Breaking Spaces To HTML or Markdown](html/add-non-breaking-spaces-to-html.md)
 + [Understand Block Versus Inline Elements](html/understand-block-versus-inline-html-elements.md)
+
+### Linux
+
++ [Change Hostname on Raspbian](linux/change-hostname-on-raspbian.md)
 
 ### Mac
 
