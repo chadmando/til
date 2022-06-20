@@ -4,7 +4,7 @@ When workinging in VBA, the Immediate Window provides a way to run code without 
 
 In the Immediate Window, start the line with a Question Mark `?`.
 ```vba
-` in Excel VBA you may want to find the value of cell A3
+' in Excel VBA you may want to find the value of cell A3
 ?Range("A3").Value
 ```
 
