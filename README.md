@@ -80,7 +80,6 @@ I started this repo to:
 + [Text or File Input Pattern for Argparse](python/text-or-file-input-pattern-for-argparse.md)
 + [Use KDF to Hash Passwords](python/use-kdf-to-hash-passwords.md)
 
-
 ### Networking
 
 + [TCP Three-Way Handshake Diagram](networking/tcp-three-way-handshake.md)
@@ -88,6 +87,7 @@ I started this repo to:
 ### VBA
 
 + [Add Blank Line to the Immediate Window](vba/add-blank-line-to-immediate-window.md)
++ [Use Immediate Window to Evaluate Code](vba/use-immediate-window-to-evaluate-code.md)
 
 ### Windows
 
