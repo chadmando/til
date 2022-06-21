@@ -43,10 +43,12 @@ I started this repo to:
 ### Linux
 
 + [Change Hostname on Raspbian](linux/change-hostname-on-raspbian.md)
++ [Get File Hash Using OpenSSL](linux/get-file-hash-using-openssl.md)
 
 ### Mac
 
 + [Get OS Version From the Terminal](mac/get-os-version-from-terminal.md)
++ [Get File Hash Using OpenSSL (from Linux)](linux/get-file-hash-using-openssl.md)
 + [Insert an Em Dash in macOS](mac/insert-em-dash-in-macos.md)
 + [Find and Change the Shell in macOS](mac/find-and-change-shell-in-macOS.md)
 + [Screenshot Keyboard Shortcuts](mac/screenshot-app-keyboard-shortcuts.md)
