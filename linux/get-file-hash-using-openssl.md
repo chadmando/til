@@ -39,4 +39,4 @@ openssl version
 
 ## Discussion
 
-These command should work on macOS, Linux, or Unix operating systems with OpenSSL installed.
+These commands should work on macOS, Linux, or Unix operating systems with OpenSSL installed.
