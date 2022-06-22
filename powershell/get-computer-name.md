@@ -1,4 +1,4 @@
-# Get Computer or Host Name
+# Get Computer Name In Windows
 
 To get the computer's current name as a string to use for comparison:
 
