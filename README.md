@@ -88,6 +88,7 @@ I started this repo to:
 
 ### VBA
 
++ [Access Environment Variables in VBA](vba/access-environment-variables-in-vba.md)
 + [Add Blank Line to the Immediate Window](vba/add-blank-line-to-immediate-window.md)
 + [Use Immediate Window to Evaluate Code](vba/use-immediate-window-to-evaluate-code.md)
 
