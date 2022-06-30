@@ -5,7 +5,7 @@ Standard cryptographic hashing functions are not suitable for password hashing b
 Hash passwords using a special type of function called a _Key_ _Derivation_ _Function_ (KDF).
 
 > KDFs use more compute resources, memory, or both.
-> These features make brute force password cracking expense.
+> These features make brute force password cracking expensive.
 
 ## Key Derivation Functions
 
@@ -16,7 +16,7 @@ Hash passwords using a special type of function called a _Key_ _Derivation_ _Fun
 
 The purpose of salt is to individualize results.
 
-+ If two users had the same password, the salt ensures the hashes are difference.
++ If two users had the same password, the salt ensures the hashes are different.
 + Salt is not a secret and can be stored in plain text.
 + Salt is to hashing as initialization vector is to encryption.
 
