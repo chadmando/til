@@ -68,6 +68,7 @@ I started this repo to:
 + [Copy and Rename Files in a Folder](powershell/copy-and-rename-files-in-folder.md)
 + [Measure Execution Time of a Command](powershell/measure-execution-time-of-a-command.md)
 + [Create A Globally Unique Identifier](powershell/create-globally-unique-identifiers.md)
++ [Create A System Restore Point](powershell/create-system-restore-point.md)
 + [Show Completion Options](powershell/show-completion-options.md)
 + [Show Zone Identifier For Files In Downloads Folder](powershell/show-zone-identifier-for-all-files-in-downloads-folder.md)
 + [Use Advanced Math Methods and Constants](powershell/use-math-library-methods.md)
