@@ -54,6 +54,7 @@ I started this repo to:
 + [Find and Change the Shell in macOS](mac/find-and-change-shell-in-macOS.md)
 + [Screenshot Keyboard Shortcuts](mac/screenshot-app-keyboard-shortcuts.md)
 + [Rename File In A Long Path](mac/rename-file-in-long-path.md)
++ [Replace Symlink Without Deleting The Original](mac/replace-symlink-without-deleting-original-first.md)
 + [Create a File With All Installed Brew Packages](mac/create-file-with-all-installed-brew-packages.md)
 
 ### PowerShell
