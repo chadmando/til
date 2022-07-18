@@ -12,6 +12,7 @@ I started this repo to:
 ### Categories
 
 + [Concepts](#concepts)
++ [Cryptography](#cryptography)
 + [Git](#git)
 + [HTML](#html)
 + [Linux](#linux)
@@ -29,12 +30,14 @@ I started this repo to:
 + [DRY Programming Isn't Always Best](concepts/dry-programming-isnt-always-best.md)
 + [Understand Serialize Versus Deserialize](concepts/understand-serialize-versus-deserialize.md)
 
+### Cryptography
+
 ### Git
 
-+ [Rename an Existing Branch](git/rename-existing-branch.md)
 + [Add Global Git Alias](git/add-global-git-alias.md)
-+ [Get Submodule Data After Cloning the Containing Project](git/get-submodule-data-after-cloning-containing-project.md)
 + [Delete Merged Branches](git/delete-merged-branches.md)
++ [Get Submodule Data After Cloning the Containing Project](git/get-submodule-data-after-cloning-containing-project.md)
++ [Rename an Existing Branch](git/rename-existing-branch.md)
 
 ### HTML
 
@@ -48,33 +51,33 @@ I started this repo to:
 
 ### Mac
 
++ [Create a File With All Installed Brew Packages](mac/create-file-with-all-installed-brew-packages.md)
++ [Find and Change the Shell in macOS](mac/find-and-change-shell-in-macOS.md)
 + [Get OS Version From the Terminal](mac/get-os-version-from-terminal.md)
 + [Get File Hash Using OpenSSL (from Linux)](linux/get-file-hash-using-openssl.md)
 + [Insert an Em Dash in macOS](mac/insert-em-dash-in-macos.md)
-+ [Find and Change the Shell in macOS](mac/find-and-change-shell-in-macOS.md)
-+ [Screenshot Keyboard Shortcuts](mac/screenshot-app-keyboard-shortcuts.md)
 + [Rename File In A Long Path](mac/rename-file-in-long-path.md)
 + [Replace Symlink Without Deleting The Original](mac/replace-symlink-without-deleting-original-first.md)
-+ [Create a File With All Installed Brew Packages](mac/create-file-with-all-installed-brew-packages.md)
++ [Screenshot Keyboard Shortcuts](mac/screenshot-app-keyboard-shortcuts.md)
 
 ### PowerShell
 
-+ [Get Root Path of a PSDrive](powershell/get-root-path-of-psdrive.md)
-+ [Sort IPv4 Addresses as Version](powershell/sort-ipv4-address-as-version.md)
-+ [Get The Computer Name In Windows](powershell/get-computer-name.md)
-+ [Get File Hash Using PowerShell](powershell/get-file-hash-using-powershell.md)
-+ [Deep Copy Nested Objects in PowerShell](powershell/deep-copy-object-in-powershell.md)
-+ [Encode Binary File as a Base64 String](powershell/encode-binary-as-base64.md)
-+ [Get Serial Number of a Computer](powershell/get-serial-number-of-computer.md)
++ [Break Long Results Into Pages](powershell/break-long-results-into-pages.md)
 + [Copy and Rename Files in a Folder](powershell/copy-and-rename-files-in-folder.md)
-+ [Measure Execution Time of a Command](powershell/measure-execution-time-of-a-command.md)
 + [Create A Globally Unique Identifier](powershell/create-globally-unique-identifiers.md)
 + [Create A System Restore Point](powershell/create-system-restore-point.md)
++ [Deep Copy Nested Objects in PowerShell](powershell/deep-copy-object-in-powershell.md)
++ [Encode Binary File as a Base64 String](powershell/encode-binary-as-base64.md)
++ [Get The Computer Name In Windows](powershell/get-computer-name.md)
++ [Get File Hash Using PowerShell](powershell/get-file-hash-using-powershell.md)
++ [Get Root Path of a PSDrive](powershell/get-root-path-of-psdrive.md)
++ [Get Serial Number of a Computer](powershell/get-serial-number-of-computer.md)
++ [Get WSMan Trusted Hosts](powershell/get-wsman-trusted-hosts.md)
++ [Measure Execution Time of a Command](powershell/measure-execution-time-of-a-command.md)
 + [Show Completion Options](powershell/show-completion-options.md)
 + [Show Zone Identifier For Files In Downloads Folder](powershell/show-zone-identifier-for-all-files-in-downloads-folder.md)
++ [Sort IPv4 Addresses as Version](powershell/sort-ipv4-address-as-version.md)
 + [Use Advanced Math Methods and Constants](powershell/use-math-library-methods.md)
-+ [Break Long Results Into Pages](powershell/break-long-results-into-pages.md)
-+ [Get WSMan Trusted Hosts](powershell/get-wsman-trusted-hosts.md)
 
 ### Python
 
@@ -98,9 +101,9 @@ I started this repo to:
 ### Windows
 
 + [Capture Network Traffic Across Reboot](windows/capture-network-traffic-across-reboot.md)
++ [Find All Previously Connected Networks](windows/find-all-previously-connected-networks.md)
 + [Get OS Name and Version from CMD](windows/get-os-name-and-version-from-cmd.md)
 + [Open Local Users and Groups Management](windows/open-local-users-and-groups-msc.md)
-+ [Find All Previously Connected Networks](windows/find-all-previously-connected-networks.md)
 
 ## About
 
