@@ -74,6 +74,7 @@ I started this repo to:
 + [Get Serial Number of a Computer](powershell/get-serial-number-of-computer.md)
 + [Get WSMan Trusted Hosts](powershell/get-wsman-trusted-hosts.md)
 + [Measure Execution Time of a Command](powershell/measure-execution-time-of-a-command.md)
++ [Remove User Profile](powershell/remove-user-profile.md)
 + [Show Completion Options](powershell/show-completion-options.md)
 + [Show Zone Identifier For Files In Downloads Folder](powershell/show-zone-identifier-for-all-files-in-downloads-folder.md)
 + [Sort IPv4 Addresses as Version](powershell/sort-ipv4-address-as-version.md)
@@ -104,6 +105,7 @@ I started this repo to:
 + [Find All Previously Connected Networks](windows/find-all-previously-connected-networks.md)
 + [Get OS Name and Version from CMD](windows/get-os-name-and-version-from-cmd.md)
 + [Open Local Users and Groups Management](windows/open-local-users-and-groups-msc.md)
++ [Remove User Profile](powershell/remove-user-profile.md)
 
 ## About
 
