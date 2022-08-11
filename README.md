@@ -28,6 +28,7 @@ I started this repo to:
 ### Concepts
 
 + [DRY Programming Isn't Always Best](concepts/dry-programming-isnt-always-best.md)
++ [Understand Reflection Versus Introspection](concepts/understand-reflection-versus-introspection.md)
 + [Understand Serialize Versus Deserialize](concepts/understand-serialize-versus-deserialize.md)
 
 ### Cryptography
