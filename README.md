@@ -13,6 +13,7 @@ I started this repo to:
 
 + [Concepts](#concepts)
 + [Cryptography](#cryptography)
++ [Dell](#dell)
 + [Git](#git)
 + [HTML](#html)
 + [Linux](#linux)
@@ -32,6 +33,10 @@ I started this repo to:
 + [Understand Serialize Versus Deserialize](concepts/understand-serialize-versus-deserialize.md)
 
 ### Cryptography
+
+### Dell
+
++ [Shut Down To Service Mode](dell/shut-down-to-service-mode.md)
 
 ### Git
 
