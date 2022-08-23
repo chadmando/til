@@ -53,12 +53,14 @@ I started this repo to:
 ### Linux
 
 + [Change Hostname on Raspbian](linux/change-hostname-on-raspbian.md)
++ [Get Alternate Data Streams in Linux](mac/get-alternate-data-streams-in-macos.md)
 + [Get File Hash Using OpenSSL](linux/get-file-hash-using-openssl.md)
 
 ### Mac
 
 + [Create a File With All Installed Brew Packages](mac/create-file-with-all-installed-brew-packages.md)
 + [Find and Change the Shell in macOS](mac/find-and-change-shell-in-macOS.md)
++ [Get Alternate Data Streams in macOS](mac/get-alternate-data-streams-in-macos.md)
 + [Get OS Version From the Terminal](mac/get-os-version-from-terminal.md)
 + [Get File Hash Using OpenSSL (from Linux)](linux/get-file-hash-using-openssl.md)
 + [Insert an Em Dash in macOS](mac/insert-em-dash-in-macos.md)
