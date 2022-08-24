@@ -83,6 +83,7 @@ I started this repo to:
 + [Get WSMan Trusted Hosts](powershell/get-wsman-trusted-hosts.md)
 + [Measure Execution Time of a Command](powershell/measure-execution-time-of-a-command.md)
 + [Remove User Profile](powershell/remove-user-profile.md)
++ [Show All Aliases For A Cmdlet](powershell/show-all-aliases-for-a-cmdlet.md)
 + [Show Completion Options](powershell/show-completion-options.md)
 + [Show Zone Identifier For Files In Downloads Folder](powershell/show-zone-identifier-for-all-files-in-downloads-folder.md)
 + [Sort IPv4 Addresses as Version](powershell/sort-ipv4-address-as-version.md)
