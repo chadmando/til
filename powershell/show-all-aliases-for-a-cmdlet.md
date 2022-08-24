@@ -8,16 +8,16 @@ To see the aliases for a cmdlet use `Get-Alias` with the `-Definition` parameter
 You want to find all the aliases for the `Remove-Item` cmdlet.
 
 ```powershell
-Get-Alias -Definition Remove-Item
+Get-Alias -Definition Remove-Item | Select-Object -Property Name
 ````
 
 Results
 
 ```text
-CommandType     Name                               Version    Source
------------     ----                               -------    ------
-Alias           del -> Remove-Item
-Alias           erase -> Remove-Item
-Alias           rd -> Remove-Item
-Alias           ri -> Remove-Item
+Name
+----
+del
+erase
+rd
+ri
 ```
