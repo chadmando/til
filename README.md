@@ -36,6 +36,7 @@ I started this repo to:
 
 ### Dell
 
++ [Boot Option Key Combinations](dell/boot-option-key-combinations.md)
 + [Shut Down To Service Mode](dell/shut-down-to-service-mode.md)
 
 ### Git
