@@ -29,6 +29,7 @@ I started this repo to:
 ### Concepts
 
 + [DRY Programming Isn't Always Best](concepts/dry-programming-isnt-always-best.md)
++ [Five Stages Of The Dreyfus Model](concepts/five-stages-of-the-dreyfus-model.md)
 + [Understand Reflection Versus Introspection](concepts/understand-reflection-versus-introspection.md)
 + [Understand Serialize Versus Deserialize](concepts/understand-serialize-versus-deserialize.md)
 
