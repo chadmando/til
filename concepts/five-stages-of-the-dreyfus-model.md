@@ -1,4 +1,4 @@
-# Five Stages Of The Dreyfus Model 
+# Five Stages Of The Dreyfus Model
 
 The Dreyfus Models attempts to create a spectrum or progression of the mastery of a skill.
 
@@ -15,3 +15,5 @@ The Dreyfus Models attempts to create a spectrum or progression of the mastery o
 ## Reference
 
 [Pragmatic Thinking & Learning: Refactor Your Wetware](https://pragprog.com/titles/ahptl/pragmatic-thinking-and-learning/) by Andy Hunt; Version P9.0 May 2014 The Pragmatic Programmers, LLC; pp35-45
+
+The chapter in _Pragmatic Thinking & Learning_ that discusses the Dreyfus model is [available for free on their site](https://media.pragprog.com/titles/ahptl/chap2.pdf).
