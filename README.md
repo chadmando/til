@@ -14,6 +14,7 @@ I started this repo to:
 + [Concepts](#concepts)
 + [Cryptography](#cryptography)
 + [Dell](#dell)
++ [Finance](#finance)
 + [Git](#git)
 + [HTML](#html)
 + [Linux](#linux)
@@ -39,6 +40,10 @@ I started this repo to:
 
 + [Boot Option Key Combinations](dell/boot-option-key-combinations.md)
 + [Shut Down To Service Mode](dell/shut-down-to-service-mode.md)
+
+### Finance
+
++ [Convert Basis Points To Percent](finance/convert-basis-points-to-percent.md)
 
 ### Git
 
