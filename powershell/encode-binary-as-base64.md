@@ -4,9 +4,18 @@ Use the `[System.Convert]` .NET Class to convert an array of Byte objects to a B
 
 
 Get bytes into a variable using the `Get-Content` cmdlet.
+The parameters depend on whether you are using Windows PowerShell or PowerShell version 6 or later (previously called PowerShell Core).
+
+## Windows PowerShell
 
 ```powershell
 $arrayOfBytes = Get-Content c:\path\to\binary\file.bin -Encoding Byte -Raw
+```
+
+## PowerShell (v6 or later)
+
+```powershell
+$arrayOfBytes = Get-Content c:\path\to\binary\file.bin -ReadCount 0 -AsByteStream
 ```
 
 Use the _ToBase64String_ method to convert to the Base64 string.
