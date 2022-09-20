@@ -86,6 +86,7 @@ I started this repo to:
 + [Encode Binary File as a Base64 String](powershell/encode-binary-as-base64.md)
 + [Get The Computer Name In Windows](powershell/get-computer-name.md)
 + [Get File Hash Using PowerShell](powershell/get-file-hash-using-powershell.md)
++ [Get Member Of .NET Class Without an Instance](powershell/get-member-of-dotnet-class-without-instance.md)
 + [Get Root Path of a PSDrive](powershell/get-root-path-of-psdrive.md)
 + [Get Serial Number of a Computer](powershell/get-serial-number-of-computer.md)
 + [Get WSMan Trusted Hosts](powershell/get-wsman-trusted-hosts.md)
