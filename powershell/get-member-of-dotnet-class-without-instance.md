@@ -1,6 +1,6 @@
 # Get Member Of .NET Class Without An Instance
 
-To explore the properties and methods of a .NET Class that doesn't have a constructor use the `-Static` parameter with `Get-Member`.
+To explore the properties and methods of a .NET Class that doesn't have a constructor, use the `-Static` parameter with `Get-Member`.
 
 ```powershell
 [System.Environment] | Get-Member -Static
@@ -9,8 +9,8 @@ To explore the properties and methods of a .NET Class that doesn't have a constr
 ## Discovery
 
 A quick review of how I learned this.
-When trying to explore the member of the `System.Environment` .NET class I started with `Get-Member`.
-If you try to pipe `[System.Environment]` to `Get-Member` you get the members for `TypeName: [System.RuntimeType]`.
+I started by using the `Get-Member` cmdlet to explore the `System.Environment` .NET class.
+If you pipe `[System.Environment]` to `Get-Member`, it returns the members for `TypeName: [System.RuntimeType]`.
 
 ```powershell
 [System.Environment] | Get-Member
@@ -25,7 +25,7 @@ Equals                                Method     bool Equals(System.Object obj),
 ```
 
 That wasn't what I was looking for.
-My next thought was to make a new instance of the [System.Environment] class.
+Next I tried to make a new instance of the [System.Environment] class.
 
 ```powershell
 $foo = New-Object System.Environment
@@ -52,11 +52,11 @@ FailFast                   Method     static void FailFast(string message), stat
 GetCommandLineArgs         Method     static string[] GetCommandLineArgs()
 ```
 
-You can see above, the members of the `TypeName: System.Environment` are being returned.
+You can see above, the members of the `TypeName: System.Environment` are returned.
 
 ## `-Static` Documentation
 
-To close the loop on understanding, I read through the help and I was clearly stated.
+To close the loop on understanding, I read through the help and it was clearly stated.
 
 
 > Indicates that this cmdlet gets only the static properties and methods of the object. 
