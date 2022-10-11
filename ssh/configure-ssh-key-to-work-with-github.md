@@ -44,5 +44,5 @@ The full path has worked for me.
 Now rerun the [ssh key test](#ssh-key-test) and it should give a success message like this:
 
 ```text
-
+Hi chadmando! You've successfully authenticated, but GitHub does not provide shell access.
 ```
