@@ -13,8 +13,8 @@ docker: Error response from daemon: invalid mode: /malware.
 ```
 
 To fix the error, I found this [question](https://stackoverflow.com/questions/50540721/docker-toolbox-error-response-from-daemon-invalid-mode-root-docker) on Stack Overflow.
-There are several opinions on how to fix the error.
-I tried several variations to find the minimal change required.
+There are many opinions on how to fix the error.
+I tried variations until I found the minimal change required.
 
 ## Fixed Docker Volume Command 
 
