@@ -13,5 +13,5 @@ This table shows common keyboard shortcuts for both platforms.
 
 ## References
 
-VSCode keyboard shortcuts for [macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
-VSCode keyboard shortcuts for [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
++ VSCode keyboard shortcuts for [macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
++ VSCode keyboard shortcuts for [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)

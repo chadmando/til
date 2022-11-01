@@ -25,6 +25,7 @@ I started this repo to:
 + [Python](#python)
 + [SSH](#ssh)
 + [VBA](#vba)
++ [vscode](#vscode)
 + [Windows](#windows)
 
 ---
@@ -128,6 +129,10 @@ I started this repo to:
 + [Access Environment Variables in VBA](vba/access-environment-variables-in-vba.md)
 + [Add Blank Line to the Immediate Window](vba/add-blank-line-to-immediate-window.md)
 + [Use Immediate Window to Evaluate Code](vba/use-immediate-window-to-evaluate-code.md)
+
+### VSCode
+
++ [VSCode Keyboard Shortcuts for macOS and Windows](vscode/vscode-shortcuts-for-macos-and-windows.md)
 
 ### Windows
 
