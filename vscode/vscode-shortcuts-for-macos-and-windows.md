@@ -1,7 +1,6 @@
 # List Of Common Shortcuts For VSCode
 
-I use VSCode.
-I often switch between macOS and Windows.
+I use VSCode and often switch between macOS and Windows.
 This table shows common keyboard shortcuts for both platforms.
 
 | Action | macOS | Windows |
