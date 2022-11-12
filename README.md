@@ -58,6 +58,7 @@ I started this repo to:
 + [Add Global Git Alias](git/add-global-git-alias.md)
 + [Delete Merged Branches](git/delete-merged-branches.md)
 + [Get Submodule Data After Cloning the Containing Project](git/get-submodule-data-after-cloning-containing-project.md)
++ [A Git Workflow For Cleaner Commits](git/git-workflow-for-cleaner-commits.md)
 + [Rename an Existing Branch](git/rename-existing-branch.md)
 
 ### HTML
