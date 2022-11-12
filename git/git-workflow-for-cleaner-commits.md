@@ -1,7 +1,7 @@
 # A Git Workflow For Cleaner Commits
 
-Annie Sexton describes _a better git flow_ in her article on render.com blog.
-She describes a better git flow would bundle commits to specific features.
+Annie Sexton describes _a better git flow_ in her article on the render.com blog.
+The idea is that a better git flow would bundle commits to specific features.
 A _seperation of concerns_ for your commits will allow you to revert changes without breaking other 
 unrelated features.
 
