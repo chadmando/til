@@ -11,6 +11,7 @@ This table shows common keyboard shortcuts for both platforms.
 | Delete Line | ⇧⌘K | Ctrl+Shift+K |
 | Multi Cursor Select | ⌥ _click_ | Alt+_click_ |
 | Select Current Line | ⌘ L | Ctrl+L |
+| Format Document | ⇧⌥F | Shift+Alt+F |
 
 ## References
 
