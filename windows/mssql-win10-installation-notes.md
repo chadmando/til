@@ -1,6 +1,6 @@
 # Microsoft SQL Installation Notes for Windows 10 Pro
 
-These notes are for a common installation I perform and may not apply to all operating systems or version of MSSQL.
+These notes are for the installation of MS SQL Express 2008 and may not apply to all operating systems or version of MSSQL Express.
 
 ## Installation Log File Location
 
