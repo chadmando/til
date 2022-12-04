@@ -123,6 +123,7 @@ I started this repo to:
 
 ### Networking
 
++ [OSI Model Layers And Mnemonic Device](networking/osi-model-layers-and-mnemonic-device.md)
 + [TCP Three-Way Handshake Diagram](networking/tcp-three-way-handshake.md)
 
 ### VBA
