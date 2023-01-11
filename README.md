@@ -66,6 +66,10 @@ I started this repo to:
 + [Add Non-Breaking Spaces To HTML or Markdown](html/add-non-breaking-spaces-to-html.md)
 + [Understand Block Versus Inline Elements](html/understand-block-versus-inline-html-elements.md)
 
+### Javascript
+
++ [Javascript Deobfuscation Resources](javascript/javascript-deobfuscation-resources.md)
+
 ### Linux
 
 + [Change Hostname on Raspbian](linux/change-hostname-on-raspbian.md)
