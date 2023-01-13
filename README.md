@@ -18,6 +18,7 @@ I started this repo to:
 + [Finance](#finance)
 + [Git](#git)
 + [HTML](#html)
++ [Javascript](#javascript)
 + [Linux](#linux)
 + [Mac](#mac)
 + [Networking](#networking)
