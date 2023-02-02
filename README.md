@@ -139,6 +139,7 @@ I started this repo to:
 
 + [Capture Network Traffic Across Reboot](windows/capture-network-traffic-across-reboot.md)
 + [Find All Previously Connected Networks](windows/find-all-previously-connected-networks.md)
++ [Find Configured DNS Servers Using CMD](windows/find-configured-dns-servers-using-cmd.md)
 + [Get OS Name and Version from CMD](windows/get-os-name-and-version-from-cmd.md)
 + [MSSQL Windows 10 Installation Notes](windows/mssql-win10-installation-notes.md)
 + [Open Local Users and Groups Management](windows/open-local-users-and-groups-msc.md)
