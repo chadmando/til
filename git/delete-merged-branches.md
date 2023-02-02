@@ -1,7 +1,7 @@
 # Delete Merged Branches
 
 The GitHub workflow can create a lot of branches in your git history.
-After a local branch is merged, it can be deleted using the `git branch -d <branch name>`.
+After merging a local branch, delete it using `git branch -d <branch name>`.
 When there are lots of local branches to delete, use the following command:
 
 ```bash

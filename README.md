@@ -18,6 +18,7 @@ I started this repo to:
 + [Finance](#finance)
 + [Git](#git)
 + [HTML](#html)
++ [Javascript](#javascript)
 + [Linux](#linux)
 + [Mac](#mac)
 + [Networking](#networking)
@@ -65,6 +66,10 @@ I started this repo to:
 
 + [Add Non-Breaking Spaces To HTML or Markdown](html/add-non-breaking-spaces-to-html.md)
 + [Understand Block Versus Inline Elements](html/understand-block-versus-inline-html-elements.md)
+
+### Javascript
+
++ [Javascript Deobfuscation Resources](javascript/javascript-deobfuscation-resources.md)
 
 ### Linux
 
@@ -123,6 +128,7 @@ I started this repo to:
 
 ### Networking
 
++ [OSI Model Layers And Mnemonic Device](networking/osi-model-layers-and-mnemonic-device.md)
 + [TCP Three-Way Handshake Diagram](networking/tcp-three-way-handshake.md)
 
 ### VBA
@@ -144,6 +150,7 @@ I started this repo to:
 + [MSSQL Windows 10 Installation Notes](windows/mssql-win10-installation-notes.md)
 + [Open Local Users and Groups Management](windows/open-local-users-and-groups-msc.md)
 + [Remove User Profile](powershell/remove-user-profile.md)
++ [Windows Keyboard Shortcuts](windows/windows-keyboard-shortcuts.md)
 
 ## About
 

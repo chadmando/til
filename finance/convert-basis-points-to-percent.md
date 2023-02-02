@@ -2,9 +2,8 @@
 
 Basis points, often abbreviated _bps_ is a unit equal to 1/100 of 1%.
 
-```math
-100bps = 1%
-```
+$100bps = 1\\%$
+
 
 # Converstion Examples
 
