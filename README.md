@@ -97,6 +97,7 @@ I started this repo to:
 + [Create A Globally Unique Identifier](powershell/create-globally-unique-identifiers.md)
 + [Create A System Restore Point](powershell/create-system-restore-point.md)
 + [Deep Copy Nested Objects in PowerShell](powershell/deep-copy-object-in-powershell.md)
++ [Delete Merged Git Branches](git/delete-merged-branches.md)
 + [Encode Binary File as a Base64 String](powershell/encode-binary-as-base64.md)
 + [Get The Computer Name In Windows](powershell/get-computer-name.md)
 + [Get File Hash Using PowerShell](powershell/get-file-hash-using-powershell.md)
