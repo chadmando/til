@@ -50,3 +50,7 @@ There are other classes in the enum module the are designed for specific behavio
 + Flag: The members can be combines using Bitwise Operators.
 
 Member values can be assigned automatically using `auto()` as the value in the class definition.
+
+## References
+
++ [Python docs on enum module](https://docs.python.org/3/library/enum.html)
