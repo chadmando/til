@@ -117,6 +117,7 @@ I started this repo to:
 ### Python
 
 + [Create a Deep Copy of a Nested Object](python/deep-copy-nested-object.md)
++ [Create Enumeration In Python](python/create-enumeration-in-python.md)
 + [Generate Secure Random Strings](python/generate-crypto-safe-random-numbers.md)
 + [Get Character Sets From String Module](python/get-character-sets-from-string-module.md)
 + [Serve Current Directory Using HTTP](python/serve-current-directory-using-http.md)
