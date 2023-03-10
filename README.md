@@ -13,6 +13,7 @@ I started this repo to:
 
 + [Concepts](#concepts)
 + [Cryptography](#cryptography)
++ [Excel](#excel)
 + [Dell](#dell)
 + [Docker](#docker)
 + [Finance](#finance)
@@ -40,6 +41,10 @@ I started this repo to:
 + [Understand Serialize Versus Deserialize](concepts/understand-serialize-versus-deserialize.md)
 
 ### Cryptography
+
+### Excel
+
++ [Find The Location Of The Personal.xlsb File](excel/personal-xlsb-file-location.md)
 
 ### Dell
 
