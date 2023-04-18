@@ -2,9 +2,15 @@
 
 ## Websites
 
++ [CyberChef with Magic Recipe](https://cyberchef.org/)
++ [de4js](https://lelinhtinh.github.io/de4js/)
++ [deobfuscate.io](http://deobfuscate.io)
 + [JSNice.org](http://jsnice.org)
 + [obfuscator.io](https://obfuscator.io)
-+ [deobfuscate.io](http://deobfuscate.io)
+
+## Software
+
++ [JSDetox](https://svent.dev/projects/jsdetox/)
 
 ## Blog Posts
 
