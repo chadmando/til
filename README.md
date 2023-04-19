@@ -151,6 +151,7 @@ I started this repo to:
 ### Windows
 
 + [Capture Network Traffic Across Reboot](windows/capture-network-traffic-across-reboot.md)
++ [Change What Happens When I Close The Laptop Lid](windows/change-what-happens-when-i-close-laptop-lid.md)
 + [Find All Previously Connected Networks](windows/find-all-previously-connected-networks.md)
 + [Find Configured DNS Servers Using CMD](windows/find-configured-dns-servers-using-cmd.md)
 + [Get OS Name and Version from CMD](windows/get-os-name-and-version-from-cmd.md)
