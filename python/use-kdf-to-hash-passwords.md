@@ -21,7 +21,7 @@ The purpose of salt is to individualize results.
 + Salt is to hashing as initialization vector is to encryption.
 
 Use `secrets.token_bytes()` to generate a unique salt.
-More on using Python's [secrets module](./generate-crypto-safe-random-numbers.md) to generate random strings.
+More on using Python's [secrets module](./generate-crypto-safe-random-strings.md) to generate random strings.
 
 ## References
 
