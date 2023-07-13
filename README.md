@@ -36,6 +36,7 @@ I started this repo to:
 
 + [DRY Programming Isn't Always Best](concepts/dry-programming-isnt-always-best.md)
 + [Five Stages Of The Dreyfus Model](concepts/five-stages-of-the-dreyfus-model.md)
++ [Keep A Changelog](concepts/keep-a-changelog.md)
 + [Time Epochs In Computers](concepts/time-epochs-in-computers.md)
 + [Understand Reflection Versus Introspection](concepts/understand-reflection-versus-introspection.md)
 + [Understand Serialize Versus Deserialize](concepts/understand-serialize-versus-deserialize.md)
