@@ -43,6 +43,8 @@ I started this repo to:
 
 ### Cryptography
 
++ [AES-CBC Plaintext Padding](cryptography/aes-cbc-plaintext-padding.md)
+
 ### Excel
 
 + [Find The Location Of The Personal.xlsb File](excel/personal-xlsb-file-location.md)
