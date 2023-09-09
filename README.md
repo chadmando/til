@@ -142,15 +142,9 @@ I started this repo to:
 + [Text or File Input Pattern for Argparse](python/text-or-file-input-pattern-for-argparse.md)
 + [Use KDF to Hash Passwords](python/use-kdf-to-hash-passwords.md)
 
-
 ### SSH
 
 + [Configure SSH Key To Work With GitHub](ssh/configure-ssh-key-to-work-with-github.md)
-
-### Networking
-
-+ [OSI Model Layers And Mnemonic Device](networking/osi-model-layers-and-mnemonic-device.md)
-+ [TCP Three-Way Handshake Diagram](networking/tcp-three-way-handshake.md)
 
 ### VBA
 
