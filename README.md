@@ -98,6 +98,15 @@ I started this repo to:
 + [Replace Symlink Without Deleting The Original](mac/replace-symlink-without-deleting-original-first.md)
 + [Screenshot Keyboard Shortcuts](mac/screenshot-app-keyboard-shortcuts.md)
 
+### Networking
+
++ [OSI Model Layers and Mnemonic](networking/osi-model-layers-and-mnemonic-device.md)
++ [TCP Three-Way Handshake](networking/tcp-three-way-handshake.md)
+
+### Outlook
+
++ [Outlook Permanently Delete Messages](outlook/outlook-permanently-delete-message.md)
+
 ### PowerShell
 
 + [Break Long Results Into Pages](powershell/break-long-results-into-pages.md)
@@ -131,6 +140,7 @@ I started this repo to:
 + [Serve Current Directory Using HTTP](python/serve-current-directory-using-http.md)
 + [Text or File Input Pattern for Argparse](python/text-or-file-input-pattern-for-argparse.md)
 + [Use KDF to Hash Passwords](python/use-kdf-to-hash-passwords.md)
+
 
 ### SSH
 
