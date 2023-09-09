@@ -23,6 +23,7 @@ I started this repo to:
 + [Linux](#linux)
 + [Mac](#mac)
 + [Networking](#networking)
++ [Outlook](#outlook)
 + [PowerShell](#powershell)
 + [Python](#python)
 + [SSH](#ssh)
