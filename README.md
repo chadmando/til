@@ -167,6 +167,7 @@ I started this repo to:
 + [MSSQL Windows 10 Installation Notes](windows/mssql-win10-installation-notes.md)
 + [Open Local Users and Groups Management](windows/open-local-users-and-groups-msc.md)
 + [Remove User Profile](powershell/remove-user-profile.md)
++ [Setup New PC Using Winget](windows/setup-new-pc-using-winget.md)
 + [Windows Keyboard Shortcuts](windows/windows-keyboard-shortcuts.md)
 
 ## About
