@@ -9,7 +9,7 @@ If you have an existing computer with a setup you would like to replicate, winge
 On the old pc, run the command `winget export c:\temp\winget_pkgs.json`.
 This creates creates a file similar to this:
 
-<script src="https://gist.github.com/chadmando/130003c63120b14426afd1548112ab01.js"></script>
+[winget export example](https://gist.github.com/chadmando/130003c63120b14426afd1548112ab01)
 
 ## Use The JSON File To Install Software
 
