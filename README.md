@@ -58,6 +58,7 @@ I started this repo to:
 ### Docker
 
 + [Fix Docker Volume Invalid Mode Error](docker/fix-docker-volume-invalid-mode-error.md)
++ [Folders To Clear During Docker Desktop Uninstall](docker/uninstall-docker-desktop-steps.md)
 
 ### Finance
 
