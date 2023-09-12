@@ -1,6 +1,6 @@
 # Uninstall Docker Desktop Steps
 
-A recent support case with Docker resulting in an uninstall/reinstall of Docker Desktop.
+A recent support case with Docker resulted in an uninstall/reinstall of Docker Desktop.
 The steps to uninstall Docker Desktop (Windows) are below.
 The important part of the instructions is the clearing of all folders associated with the application.
 
