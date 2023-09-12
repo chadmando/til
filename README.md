@@ -156,6 +156,7 @@ I started this repo to:
 ### VSCode
 
 + [VSCode Keyboard Shortcuts for macOS and Windows](vscode/vscode-shortcuts-for-macos-and-windows.md)
++ [VSCode User Snippet Storage Location](vscode/vscode-snippet-storage-location.md)
 
 ### Windows
 
