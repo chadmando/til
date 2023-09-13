@@ -7,3 +7,5 @@ If you are moving your snippets to a different computer, you can find them here:
 > C:\Users\<USER NAME>\AppData\Roaming\Code\User\snippets
 
 ## macOS
+
+> /Users/<USER NAME>/Library/Application Support/Code/User/snippets
