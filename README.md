@@ -111,6 +111,7 @@ I started this repo to:
 + [Outlook Permanently Delete Messages](outlook/outlook-permanently-delete-message.md)
 
 ### Phishing
+
 + [Understanding ZeroFont Phishing](phishing/understanding-zero-font-phishing.md)
 
 ### PowerShell
