@@ -36,6 +36,7 @@ I started this repo to:
 
 ### Concepts
 
++ [Complicated Versus Complex Systems](concepts/complicated-versus-complex-systems.md)
 + [DRY Programming Isn't Always Best](concepts/dry-programming-isnt-always-best.md)
 + [Five Stages Of The Dreyfus Model](concepts/five-stages-of-the-dreyfus-model.md)
 + [Keep A Changelog](concepts/keep-a-changelog.md)
