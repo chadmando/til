@@ -9,6 +9,7 @@ This may seem semantic or academic but understanding the difference will change 
 Complicated systems have predictable outcomes.
 They follow rules even though they have many moving parts.
 Complicated systems won't change over time.
+Complicated systems are deterministic.
 Example: an automobile engine
 
 ## Complex Systems
@@ -16,6 +17,7 @@ Example: an automobile engine
 Complex systems behave unpredictably.
 There are interactions between the internal components that produce different results given the same input.
 Complex system can change over time with no outside stimulus.
+Complex systems are non-deterministic.
 Example: Natural systems
 
 ## References
