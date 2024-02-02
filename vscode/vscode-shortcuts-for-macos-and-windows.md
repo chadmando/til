@@ -21,3 +21,4 @@ This table shows common keyboard shortcuts for both platforms.
 + VSCode keyboard shortcuts for [macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 + VSCode keyboard shortcuts for [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 + Stack Overflow Question about [Fold & UnFold Regions](https://stackoverflow.com/questions/42660670/collapse-all-methods-in-visual-studio-code)
++ Dev.to 10 Must-Know VS Code Shortcuts [article](https://dev.to/stefirosca/10-must-know-vs-code-shortcuts-1n17)
