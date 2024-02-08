@@ -20,7 +20,7 @@ Here-String
 ## Single Versus Double Quoted
 
 The key difference between single-quoted and double-quoted strings and here-strings is variable expansion.
-When using double-quoted strings, the any variables will be replaced (expanded) by their value.
+When using double-quoted strings, any variables will be replaced (expanded) by their value.
 
 ```powershell
 $count = 34
