@@ -124,6 +124,7 @@ I started this repo to:
 + [Deep Copy Nested Objects in PowerShell](powershell/deep-copy-object-in-powershell.md)
 + [Delete Merged Git Branches](git/delete-merged-branches.md)
 + [Encode Binary File as a Base64 String](powershell/encode-binary-as-base64.md)
++ [Four Types Of String-Literals In PowerShell](powershell/four-types-of-string-literals-in-powershell.md)
 + [Get The Computer Name In Windows](powershell/get-computer-name.md)
 + [Get File Hash Using PowerShell](powershell/get-file-hash-using-powershell.md)
 + [Get Member Of .NET Class Without an Instance](powershell/get-member-of-dotnet-class-without-instance.md)
