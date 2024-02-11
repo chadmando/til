@@ -20,3 +20,5 @@ _Rule of Three_[^2] is a rule of thumb that states only after you have used the 
 
 [^1]: [Software Mistakes and Tradeoffs](https://www.manning.com/books/software-mistakes-and-tradeoffs), by Jon Skeet and Tomasz Lelek
 [^2]: [Rule of Three](https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)) Wikipedia article
+
++ There are more thoughts on repeating yourself until you find the right abstraction in this [article from programmingisterrible.com](https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and)
