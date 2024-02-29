@@ -179,6 +179,7 @@ I started this repo to:
 + [Remove User Profile](powershell/remove-user-profile.md)
 + [Setup New PC Using Winget](windows/setup-new-pc-using-winget.md)
 + [Windows Keyboard Shortcuts](windows/windows-keyboard-shortcuts.md)
++ [Wipe Drive Using Diskpart](windows/wipe-drive-using-diskpart.md)
 
 ## About
 
