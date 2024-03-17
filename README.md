@@ -95,6 +95,7 @@ I started this repo to:
 
 + [Create a File With All Installed Brew Packages](mac/create-file-with-all-installed-brew-packages.md)
 + [Find and Change the Shell in macOS](mac/find-and-change-shell-in-macOS.md)
++ [Find Imported Music Files In macOS](mac/find-imported-music-files.md)
 + [Get Alternate Data Streams in macOS](mac/get-alternate-data-streams-in-macos.md)
 + [Get OS Version From the Terminal](mac/get-os-version-from-terminal.md)
 + [Get File Hash Using OpenSSL (from Linux)](linux/get-file-hash-using-openssl.md)
