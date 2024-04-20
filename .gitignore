@@ -1,1 +1,8 @@
 .DS_Store
+
+# vscode folder
+.vscode/
+
+# Front Matter
+frontmatter.json
+taxonomyDb.json
