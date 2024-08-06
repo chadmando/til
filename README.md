@@ -125,6 +125,7 @@ I started this repo to:
 + [Copy and Rename Files in a Folder](powershell/copy-and-rename-files-in-folder.md)
 + [Create A Globally Unique Identifier](powershell/create-globally-unique-identifiers.md)
 + [Create A System Restore Point](powershell/create-system-restore-point.md)
++ [Decode String From Base64](powershell/decode-string-from-base64.md)
 + [Deep Copy Nested Objects in PowerShell](powershell/deep-copy-object-in-powershell.md)
 + [Delete Merged Git Branches](git/delete-merged-branches.md)
 + [Encode Binary File as a Base64 String](powershell/encode-binary-as-base64.md)
