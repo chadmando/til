@@ -106,6 +106,9 @@ I started this repo to:
 + [Replace Symlink Without Deleting The Original](mac/replace-symlink-without-deleting-original-first.md)
 + [Screenshot Keyboard Shortcuts](mac/screenshot-app-keyboard-shortcuts.md)
 
+### Microsoft
++ [Reset Device Previously Joined to Entra ID](microsoft/reset-device-previously-joined-to-entraid.md)
+
 ### Networking
 
 + [OSI Model Layers and Mnemonic](networking/osi-model-layers-and-mnemonic-device.md)
