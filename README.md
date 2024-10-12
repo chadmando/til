@@ -107,6 +107,7 @@ I started this repo to:
 + [Screenshot Keyboard Shortcuts](mac/screenshot-app-keyboard-shortcuts.md)
 
 ### Microsoft
+
 + [Reset Device Previously Joined to Entra ID](microsoft/reset-device-previously-joined-to-entraid.md)
 
 ### Networking
