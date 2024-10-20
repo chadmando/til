@@ -38,6 +38,6 @@ man 3 read
 
 ## References
 
-[^1]: Lucas, Michael W. SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys (IT Mastery) . Tilted Windmill Press. Kindle Edition.
+[^1]: Lucas, Michael W. SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys (IT Mastery) . Tilted Windmill Press. [Kindle Edition.](https://www.amazon.com/SSH-Mastery-OpenSSH-PuTTY-Tunnels-ebook/dp/B079NL1L9K/)
 [^2]: Wikipedia [Man page](https://en.wikipedia.org/wiki/Man_page) article
 [^3]: Julia Evans [man page](https://wizardzines.com/comics/man-pages/) from the *Bite Size Linux* zine.
