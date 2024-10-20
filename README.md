@@ -91,6 +91,7 @@ I started this repo to:
 + [Change Hostname on Raspbian](linux/change-hostname-on-raspbian.md)
 + [Get Alternate Data Streams in Linux](mac/get-alternate-data-streams-in-macos.md)
 + [Get File Hash Using OpenSSL](linux/get-file-hash-using-openssl.md)
++ [Understand Man Page Sections](linux/understand-man-sections.md)
 
 ### Mac
 
@@ -105,6 +106,7 @@ I started this repo to:
 + [Rename File In A Long Path](mac/rename-file-in-long-path.md)
 + [Replace Symlink Without Deleting The Original](mac/replace-symlink-without-deleting-original-first.md)
 + [Screenshot Keyboard Shortcuts](mac/screenshot-app-keyboard-shortcuts.md)
++ [Understand Man Page Sections](linux/understand-man-sections.md)
 
 ### Microsoft
 
