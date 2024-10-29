@@ -41,3 +41,5 @@ If the correct SID has a ProfileImagePath pointing to C:\Users\TEMP:
 ## References
 
 [^1]: My question on the [Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-entra/entraid-account-on-windows-11-being-started-under-a-temp-user/m-p/4281720#M9937)
+
++ A similar solution with a more visual guide found [here](https://www.tenforums.com/tutorials/145678-fix-user-profile-service-failed-sign-error-windows-10-a.html).
