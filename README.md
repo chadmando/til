@@ -184,6 +184,7 @@ I started this repo to:
 + [Change What Happens When I Close The Laptop Lid](windows/change-what-happens-when-i-close-laptop-lid.md)
 + [Find All Previously Connected Networks](windows/find-all-previously-connected-networks.md)
 + [Find Configured DNS Servers Using CMD](windows/find-configured-dns-servers-using-cmd.md)
++ [Fix User Profile Using Registry Edit](windows/fix-user-profile-using-registry-edit.md)
 + [Get OS Name and Version from CMD](windows/get-os-name-and-version-from-cmd.md)
 + [Install Applications Using Winget](windows/install-software-using-winget.md)
 + [Manually Boot To Audit Mode](windows/manually-boot-to-audit-mode.md)
