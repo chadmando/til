@@ -129,6 +129,7 @@ I started this repo to:
 
 + [Break Long Results Into Pages](powershell/break-long-results-into-pages.md)
 + [Copy and Rename Files in a Folder](powershell/copy-and-rename-files-in-folder.md)
++ [Count Files In A Directory](powershell/count-files-in-a-directory.md)
 + [Create A Globally Unique Identifier](powershell/create-globally-unique-identifiers.md)
 + [Create A System Restore Point](powershell/create-system-restore-point.md)
 + [Decode String From Base64](powershell/decode-string-from-base64.md)
