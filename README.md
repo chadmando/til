@@ -150,6 +150,7 @@ I started this repo to:
 + [Show Completion Options](powershell/show-completion-options.md)
 + [Show Zone Identifier For Files In Downloads Folder](powershell/show-zone-identifier-for-all-files-in-downloads-folder.md)
 + [Sort IPv4 Addresses as Version](powershell/sort-ipv4-address-as-version.md)
++ [Split and Join A Multiline String](powershell/split-and-join-multiline-string.md)
 + [Use Advanced Math Methods and Constants](powershell/use-math-library-methods.md)
 
 ### Python
