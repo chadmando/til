@@ -189,6 +189,7 @@ I started this repo to:
 + [Fix User Profile Using Registry Edit](windows/fix-user-profile-using-registry-edit.md)
 + [Get OS Name and Version from CMD](windows/get-os-name-and-version-from-cmd.md)
 + [Install Applications Using Winget](windows/install-software-using-winget.md)
++ [List Of File Explorer Alternatives](windows/list-of-file-explorer-alternatives.md)
 + [Manually Boot To Audit Mode](windows/manually-boot-to-audit-mode.md)
 + [MSSQL Windows 10 Installation Notes](windows/mssql-win10-installation-notes.md)
 + [Open Local Users and Groups Management](windows/open-local-users-and-groups-msc.md)
