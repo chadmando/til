@@ -4,6 +4,8 @@
 
 When troubleshooting some issues related to boot and startup, it is recommended to perform a *hard reset*.
 A hard reset drains the residual power that may be causing the problem(s).
+This is NOT a Factory Reset or a type of Operating System reset or recovery[^1].
+It is purely related to the draining of residual power from the hardware.
 
 ## Steps
 
@@ -16,4 +18,4 @@ A hard reset drains the residual power that may be causing the problem(s).
 
 ## References
 
-+ Dell Support [article](https://www.dell.com/support/kbdoc/en-us/000139016/how-to-perform-hard-reset)
+[^1]: Dell Support [article](https://www.dell.com/support/kbdoc/en-us/000139016/how-to-perform-hard-reset)
