@@ -23,6 +23,6 @@ Full details on their [site](https://www.gpsoft.com.au/).
 
 ## References
 
-[^1]: I discovered these options by watching Scott Hansleman's [demo video](https://youtu.be/uDUQrC5YxT0?si=UFejQCzXoYq9bMEt).
+[^1]: I discovered these options by watching Scott Hanselman's [demo video](https://youtu.be/uDUQrC5YxT0?si=UFejQCzXoYq9bMEt).
 
 [^2]: PCMag [article](https://www.pcmag.com/picks/windows-11-file-explorer-alternatives) about other FE alternatives.
