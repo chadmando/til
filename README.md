@@ -56,6 +56,7 @@ I started this repo to:
 ### Dell
 
 + [Boot Option Key Combinations](dell/boot-option-key-combinations.md)
++ [Perform Hard Reset](dell/perform-hard-reset.md)
 + [Run Dell Hardware Diagnostics](dell/run-dell-hardware-diagnostics.md)
 + [Shut Down To Service Mode](dell/shut-down-to-service-mode.md)
 
