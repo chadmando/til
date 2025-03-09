@@ -112,6 +112,7 @@ I started this repo to:
 
 ### Microsoft
 
++ [How To Access UEFI Settings On A Surface Laptop](microsoft/how-to-access-uefi-on-surface-laptop.md)
 + [Reset Device Previously Joined to Entra ID](microsoft/reset-device-previously-joined-to-entraid.md)
 
 ### Networking
