@@ -1,1 +1,35 @@
+name: Count Markdown Files
 
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  count-markdown:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Count Markdown files
+      id: count_md
+      run: |
+        md_count=$(find . -name "*.md" | wc -l)
+        echo "md_count=$md_count" >> $GITHUB_ENV
+
+    - name: Update file with Markdown count
+      run: |
+        echo "Number of Markdown files: ${md_count}" > markdown_count.txt
+
+    - name: Commit changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add markdown_count.txt
+        git commit -m "Update Markdown file count"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
