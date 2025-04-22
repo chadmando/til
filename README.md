@@ -19,6 +19,7 @@ I started this repo to:
 + [Finance](#finance)
 + [Git](#git)
 + [HTML](#html)
++ [Intune](#intune)
 + [Javascript](#javascript)
 + [Linux](#linux)
 + [Mac](#mac)
@@ -84,6 +85,10 @@ I started this repo to:
 
 + [Add Non-Breaking Spaces To HTML or Markdown](html/add-non-breaking-spaces-to-html.md)
 + [Understand Block Versus Inline Elements](html/understand-block-versus-inline-html-elements.md)
+
+### Intune
+
++ [Folder path for Collect Diagnostics in Intune](intune/collect_diagnostics_folder_path.md)
 
 ### Javascript
 
