@@ -38,6 +38,7 @@ I started this repo to:
 
 ### Concepts
 
++ [A Mental Model For Technical Debt](concepts/a-mental-model-for-technical-debt.md)
 + [Complicated Versus Complex Systems](concepts/complicated-versus-complex-systems.md)
 + [DRY Programming Isn't Always Best](concepts/dry-programming-isnt-always-best.md)
 + [Five Stages Of The Dreyfus Model](concepts/five-stages-of-the-dreyfus-model.md)
