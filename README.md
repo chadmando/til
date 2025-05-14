@@ -55,6 +55,7 @@ I started this repo to:
 ### Excel
 
 + [Find The Location Of The Personal.xlsb File](excel/personal-xlsb-file-location.md)
++ [Split Text And Remove Whitespace](excel/split-text-and-remove-white-space.md)
 
 ### Dell
 
