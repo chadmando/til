@@ -206,6 +206,7 @@ I started this repo to:
 + [Open Local Users and Groups Management](windows/open-local-users-and-groups-msc.md)
 + [Remove User Profile](powershell/remove-user-profile.md)
 + [Setup New PC Using Winget](windows/setup-new-pc-using-winget.md)
++ [Windows EventLog Logging Levels](windows/windows-eventlog-logging-levels.md)
 + [Windows Keyboard Shortcuts](windows/windows-keyboard-shortcuts.md)
 + [Wipe Drive Using Diskpart](windows/wipe-drive-using-diskpart.md)
 
