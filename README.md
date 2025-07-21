@@ -131,6 +131,7 @@ I started this repo to:
 
 ### Outlook
 
++ [Outlook Calendar Change Time Scale](outlook/outlook-calendar-change-timescale.md)
 + [Outlook Permanently Delete Messages](outlook/outlook-permanently-delete-message.md)
 
 ### Phishing
