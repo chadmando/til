@@ -36,8 +36,13 @@ or
 man 3 read
 ```
 
+## Other
+
+There are websites that host copies of the Linux Man Pages[^4].
+
 ## References
 
 [^1]: Lucas, Michael W. SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys (IT Mastery) . Tilted Windmill Press. [Kindle Edition.](https://www.amazon.com/SSH-Mastery-OpenSSH-PuTTY-Tunnels-ebook/dp/B079NL1L9K/)
 [^2]: Wikipedia [Man page](https://en.wikipedia.org/wiki/Man_page) article
 [^3]: Julia Evans [man page](https://wizardzines.com/comics/man-pages/) from the *Bite Size Linux* zine.
+[^4]: The site [man7.org](https://www.man7.org/linux/man-pages/) hosts copies of the Linux Man Pages. A quick search of the internet will reveal similar sites.
