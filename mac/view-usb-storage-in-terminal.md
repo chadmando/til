@@ -13,8 +13,8 @@ For Example:
 ```bash
 total 544
 lrwxr-xr-x  1 root     wheel       1 Aug  5 13:27 Macintosh HD -> /
-drwx------@ 1 chadmin  staff  262144 Dec 31  1969 One Touch
-drwx------@ 1 chadmin  staff       0 Dec 27  1970 SCANNER
+drwx------@ 1 root  staff  262144 Dec 31  1969 One Touch
+drwx------@ 1 root  staff       0 Dec 27  1970 SCANNER
 ```
 
 In this example, both `One Touch` and `SCANNER` are external USB storage devices.
