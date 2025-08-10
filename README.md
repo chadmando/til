@@ -117,6 +117,7 @@ I started this repo to:
 + [Replace Symlink Without Deleting The Original](mac/replace-symlink-without-deleting-original-first.md)
 + [Screenshot Keyboard Shortcuts](mac/screenshot-app-keyboard-shortcuts.md)
 + [Understand Man Page Sections](linux/understand-man-sections.md)
++ [View USB Storage In Terminal](mac/view-usb-storage-in-terminal.md)
 
 ### Microsoft
 
