@@ -36,6 +36,18 @@ or
 man 3 read
 ```
 
+While working in Ubuntu 24.x, I found you can change the order of the section number and topic.
+
+```bash
+man apt 8
+```
+
+Fetches the APT(8) man page but so does:
+
+```bash
+man 8 apt
+```
+
 ## Other
 
 There are websites that host copies of the Linux Man Pages[^4].
