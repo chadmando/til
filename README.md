@@ -101,6 +101,7 @@ I started this repo to:
 + [Change Hostname on Raspbian](linux/change-hostname-on-raspbian.md)
 + [Get Alternate Data Streams in Linux](mac/get-alternate-data-streams-in-macos.md)
 + [Get File Hash Using OpenSSL](linux/get-file-hash-using-openssl.md)
++ [Set UFW Allow From Subnet Rule](linux/set-ufw-allow-from-subnet-rule.md)
 + [Show File and Folder Sizes In The Terminal](linux/show-file-sizes-in-the-terminal.md)
 + [Understand Man Page Sections](linux/understand-man-sections.md)
 
