@@ -2,7 +2,7 @@
 
 > Based on PowerShell v7.2.6
 >
-> Tested with `pwsh` launched from the terminal, and VSCode
+> Tested with `pwsh` launched from the terminal and VSCode
 
 
 | Profile | Path To File |
