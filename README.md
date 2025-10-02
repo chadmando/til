@@ -80,6 +80,7 @@ I started this repo to:
 + [Get Submodule Data After Cloning the Containing Project](git/get-submodule-data-after-cloning-containing-project.md)
 + [A Git Workflow For Cleaner Commits](git/git-workflow-for-cleaner-commits.md)
 + [Remove a Tracked File From Git](git/remove-tracked-file-from-git.md)
++ [Rename a Git Tracked File](git/rename-git-tracked-file.md)
 + [Rename an Existing Branch](git/rename-existing-branch.md)
 + [Resources For Learning Git](git/resources-for-learning-git.md)
 
