@@ -1,7 +1,7 @@
 # How To Get Data From A `.ndjson` File
 
 New line delimited json files use the extension `.ndjson`.
-The file structure is made up of a separate json object on each new line.
+The file structure is made up of a separate json objects on each new line.
 To import this data to a variable requires an extra step.
 
 ```powershell
