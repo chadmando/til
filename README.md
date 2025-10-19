@@ -155,6 +155,7 @@ I started this repo to:
 + [Encode Binary File as a Base64 String](powershell/encode-binary-as-base64.md)
 + [Four Types Of String-Literals In PowerShell](powershell/four-types-of-string-literals-in-powershell.md)
 + [Get The Computer Name In Windows](powershell/get-computer-name.md)
++ [Get Data From .ndjson File](powershell/get-data-from-ndjson-file.md)
 + [Get File Hash Using PowerShell](powershell/get-file-hash-using-powershell.md)
 + [Get Member Of .NET Class Without an Instance](powershell/get-member-of-dotnet-class-without-instance.md)
 + [Get Root Path of a PSDrive](powershell/get-root-path-of-psdrive.md)
