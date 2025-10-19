@@ -17,9 +17,6 @@
 1. Navigate to Devices->Windows->Enrollment->AutoPilot Enrollment
 1. 
 
-
-
-
 ## References
 
 [^1]: Microsoft documentation [page](https://learn.microsoft.com/en-us/autopilot/add-devices)
