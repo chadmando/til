@@ -1,6 +1,6 @@
 # til - Today I Learned
 
-A Collection of daily lessons I've learned about tech, software development, business, and infosec.
+A Collection of daily lessons I've learned about tech, software development, business, and cyber security.
 References provided when possible.
 
 I started this repo to:
