@@ -100,6 +100,7 @@ I started this repo to:
 ### Linux
 
 + [Change Hostname on Raspbian](linux/change-hostname-on-raspbian.md)
++ [Exclude Term From Grep Results](linux/exclude-grep-results.md)
 + [Get Alternate Data Streams in Linux](mac/get-alternate-data-streams-in-macos.md)
 + [Get File Hash Using OpenSSL](linux/get-file-hash-using-openssl.md)
 + [Set UFW Allow From Subnet Rule](linux/set-ufw-allow-from-subnet-rule.md)
@@ -109,6 +110,7 @@ I started this repo to:
 ### Mac
 
 + [Create a File With All Installed Brew Packages](mac/create-file-with-all-installed-brew-packages.md)
++ [Exclude Term From Grep Results](linux/exclude-grep-results.md)
 + [Find and Change the Shell in macOS](mac/find-and-change-shell-in-macOS.md)
 + [Find Imported Music Files In macOS](mac/find-imported-music-files.md)
 + [Get Alternate Data Streams in macOS](mac/get-alternate-data-streams-in-macos.md)
