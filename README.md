@@ -210,6 +210,7 @@ I started this repo to:
 + [Get OS Name and Version from CMD](windows/get-os-name-and-version-from-cmd.md)
 + [Install Applications Using Winget](windows/install-software-using-winget.md)
 + [List Of File Explorer Alternatives](windows/list-of-file-explorer-alternatives.md)
++ [Make Windows Prefer IPv4 Address Over IPv6](windows/make-windows-prefer-ipv4-addresses.md)
 + [Manually Boot To Audit Mode](windows/manually-boot-to-audit-mode.md)
 + [MSSQL Windows 10 Installation Notes](windows/mssql-win10-installation-notes.md)
 + [Open Local Users and Groups Management](windows/open-local-users-and-groups-msc.md)
