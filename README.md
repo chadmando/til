@@ -52,11 +52,6 @@ I started this repo to:
 
 + [AES-CBC Plaintext Padding](cryptography/aes-cbc-plaintext-padding.md)
 
-### Excel
-
-+ [Find The Location Of The Personal.xlsb File](excel/personal-xlsb-file-location.md)
-+ [Split Text And Remove Whitespace](excel/split-text-and-remove-white-space.md)
-
 ### Dell
 
 + [Boot Option Key Combinations](dell/boot-option-key-combinations.md)
@@ -68,6 +63,11 @@ I started this repo to:
 
 + [Fix Docker Volume Invalid Mode Error](docker/fix-docker-volume-invalid-mode-error.md)
 + [Folders To Clear During Docker Desktop Uninstall](docker/uninstall-docker-desktop-steps.md)
+
+### Excel
+
++ [Find The Location Of The Personal.xlsb File](excel/personal-xlsb-file-location.md)
++ [Split Text And Remove Whitespace](excel/split-text-and-remove-white-space.md)
 
 ### Finance
 
