@@ -94,6 +94,7 @@ I started this repo to:
 ### Intune
 
 + [Folder path for Collect Diagnostics in Intune](intune/collect_diagnostics_folder_path.md)
++ [Intune Device Name Length Limit](intune/intune-device-name-length-limit.md)
 
 ### Javascript
 
