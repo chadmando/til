@@ -185,6 +185,7 @@ I started this repo to:
 + [F-String Number Formatting](python/fstring-number-formatting.md)
 + [Generate Secure Random Strings](python/generate-crypto-safe-random-numbers.md)
 + [Get Character Sets From String Module](python/get-character-sets-from-string-module.md)
++ [Print Raw Text Characters](python/print-raw-text-characters.md)
 + [Serve Current Directory Using HTTP](python/serve-current-directory-using-http.md)
 + [Text or File Input Pattern for Argparse](python/text-or-file-input-pattern-for-argparse.md)
 + [Use KDF to Hash Passwords](python/use-kdf-to-hash-passwords.md)
