@@ -132,6 +132,7 @@ I started this repo to:
 
 + [How To Access UEFI Settings On A Surface Laptop](microsoft/how-to-access-uefi-on-surface-laptop.md)
 + [How to Boot From A USB Drive On A Surface Device](microsoft/how-to-boot-from-usb-on-surface-device.md)
++ [How to Create A Surface Device Recovery Tool](microsoft/how-to-create-surface-device-recovery-tool.md)
 + [How To Enroll A New PC in Autopilot](microsoft/how-to-enroll-new-pc-in-AutoPilot.md)
 + [Reset Device Previously Joined to Entra ID](microsoft/reset-device-previously-joined-to-entraid.md)
 
